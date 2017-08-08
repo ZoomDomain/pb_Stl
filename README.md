@@ -12,6 +12,10 @@ An STL importer/exporter for Unity.
 1. In the file menu,  `Edit > Export > STL (Ascii)`.
 1. View your shiny new STL file.
 
+## Script examples
+
+- You can find some easy 5 line script examples from pb_Stl_Tests.cs file, which resides in the test folder, to import/export STL files to runtime GameObjects.
+
 ## Features
 
 - Export and import Binary & ASCII STL files in editor or at runtime.
